@@ -30,7 +30,6 @@ const App = () => {
             <th></th>
           </tr>
         </thead>
-
         <tbody></tbody>
       </table>
     </div>
